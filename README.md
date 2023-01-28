@@ -1,6 +1,6 @@
 # StarBucks-Landing-Page
 
-Preview: https://m1racle04.github.io/StarBucks-Landing-Page/
+Preview: https://aaradhayasingh811.github.io/aaradhayasingh/
 
 
 This is a StarBucks Landing Page Clone.
